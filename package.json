@@ -13,6 +13,7 @@
     "vue": "~2.6.0"
   },
   "devDependencies": {
+    "@types/node": "^18.11.9",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
